@@ -14,7 +14,7 @@ information för att bygga hemsidan,
 Du kommer behöva använda dig av HTML, CSS och JavaScript. 
 Vill du ha tillgång till figma, ikoner, bilder (som redan är optimerade) och typsnitt finner du det här på github strukturerat i mappar. 
 
-Jag valde att optimera mina bilder med https://compressimage.io/ för att minska storleken på mina bilder, jag googlade mig fram hemsidan och tyckte den gav ett bra resultat och minskning. 
+Jag valde att optimera mina bilder med https://compressimage.io/ för att minska storleken på mina bilder, jag googlade mig fram hemsidan och tyckte den gav ett bra resultat och minskning, och jag använde JPG för att det är det mest populära bildformatet. 
 
 
 ### Länkar till hämtat material, 
