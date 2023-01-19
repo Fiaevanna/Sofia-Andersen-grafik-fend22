@@ -22,4 +22,4 @@ Jag valde att optimera mina bilder med https://compressimage.io/ för att minska
 * Bilder- https://unsplash.com/
 * Fonter- https://fontawesome.com/
 * OptimeradeBilder- https://compressimage.io/
-* FigmaDesign- 
+* FigmaDesign- https://www.figma.com/file/NsssrZI6u2Z4ABT7xI4tQo/Figma-Design-Grafikverktyg?t=bmwApNCP0olvWi4I-6
